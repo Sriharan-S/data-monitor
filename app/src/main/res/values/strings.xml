@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Data Monitor</string>
+    <string name="tile_label">Data Usage</string>
+</resources>
